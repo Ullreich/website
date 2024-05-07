@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Spectral');
+
+:root {
+  --black: #1a1a1a;
+  --white: #ffffff;
+  --grey: #444444;
+  /* solarized colorscheme */
+  --base0: #839496;
+  --base1: #93a1a1;
+  --base2: #eee8d5;
+  --base3: #fdf6e3;
+  --background-color: var(--base3);
+  --color: var(--black);
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--color);
+  margin: 0;
+  padding: 0;
+  font-family: 'Spectral';
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/*
+* {
+  margin-top: 0;
+  box-sizing: border-box;
+}
+*/
+
+p {
+  font-family: 'Spectral';
+  font-size: 20;
+  padding-left: 5%;
+  padding-right: 5%;
+  text-align: justify;
+}
+
+/*
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  max-width: calc(100vw - 40px);
+  width: 500px;
+  padding: 5%;
+}
+*/
+img {
+  max-width: 100%;
+}
+
+h1 {
+  padding-top: 3%;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-bottom: 3%;
+  text-align: center;
+  font-family: 'Spectral';
+  font-size: 35;
+  border-bottom: 1px solid var(--black);
+  /* background-color: var(--base2); */
+}

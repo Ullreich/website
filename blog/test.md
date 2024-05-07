@@ -1,0 +1,51 @@
+<link rel="stylesheet" href="../../global.css" />
+
+# How Greek scholarly mathematics changed ancient mathematical thinking and how it challenged the status quo of political debate
+
+Ancient mathematics of Mesopotamia, Egypt, and India, which preceded Greek scholarly
+mathematics, was practically oriented. It was done by accountants, land surveyors,
+and architects. These practical mathematicians were primarily interested in results of
+measurements and algorithms. While the masters in those fields surely had an
+intuition and understanding as to why their algorithms and abstractions worked,
+proofs of correctness were accepted via real-world experience and empirical
+evidence. That is why they had no need for theoretical proofs based on axioms.
+
+Greek scholarly mathematics brought a shift to this way of thinking. The predominant
+mathematics done was still practical mathematics, but with Hippocrates of Chios a
+new tradition of mathematics started. Greek scholarly mathematics focused on doing
+mathematics for the sake of doing mathematics and on searching for truth. To convince
+others of their discovered truths, Greek mathematicians would rely heavily on diagrams.
+These were meant to guide readers from fundamental statements that were known and
+accepted to be true to the statements to be proved. Readers would be able to take
+these imprecise diagrams and abstract them in their minds to an idealized image.
+The writing style accompanying these diagrams was reflective of the objectives of
+a scholarly mathematician: it was simple and precise and written with grammar which
+highlighted the intrinsic and fundamental correctness of the proof.
+What further set scholarly mathematics apart from practical mathematics was
+the omission of numbers. The scholarly mathematicians saw numbers as imprecise, a
+tool of the practical mathematicians that was used for measuring, instead arguing
+with ratios. The correctness for these ratios would follow from the written arguments
+and the diagrams. Euclid especially is notable for his treatise "Elements" in which
+he lays the mathematical foundational truths needed for more dazzling proofs.
+
+Euclid's argumentative framework is based on Aristotle's more general method of
+arguing. Socrates, and later his student Plato and in turn his student Aristotle,
+challenged the political status quo of arguing which, at the time, was about
+winning arguments rather than arguing for what one believed to be the truth.
+Socrates famously died for this stance rather than going into exile and Plato
+further criticized contemporary Athenian rhetoric in his dialogue "Gorgias".
+These rhetorical ideals were formative to mathematical thinking and the modus
+operandi of mathematical argumentation. Mathematicians had the same goal of arguing
+that philosphers of the time were advocating: convincing of truth, not debating
+for the sake of winning a debate. In turn, this mathematical mode of arguing
+affected the methods of political discourse, attracting the social elite of the
+time. What set mathematicians and philosophers apart, though, was that
+philosophers struggled to reach concensus on many topics, whereas mathematical
+knowledge was, for the most part, accepted and agreed upon by the mathematicians.
+
+While mathematics had been done for many centuries and in many places, Greek
+scholarly mathematics, prodded by the political and philosophical revolutions,
+sets itself apart from earlier mathematical practices by forming a coherent school
+of thought, accompanied by rigorous methodologies and a search for truth. Through
+the Greek Miracle, mathematics was broadend from being a tool to be used in
+practice to an abstract theoretical discipline as well.
