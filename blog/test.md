@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../../global.css" />
+<link rel="stylesheet" href="/css_files/elegant_bootstrap.css" />
 
 # How Greek scholarly mathematics changed ancient mathematical thinking and how it challenged the status quo of political debate
 
