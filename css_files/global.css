@@ -66,3 +66,25 @@ h1 {
   border-bottom: 1px solid var(--black);
   /* background-color: var(--base2); */
 }
+
+/** FOOTER */
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin: 0px auto;
+    padding: 20 px;
+    background: var(--base2)
+}
+
+#footer p {
+    margin: 0px;
+    text-align: center;
+    padding: 15px 20px;
+    background: url(images/img06.gif) no-repeat right bottom;
+    font-size: smaller;
+    color: var(--black);
+}
+
+pre { font-size:1.1em;}
