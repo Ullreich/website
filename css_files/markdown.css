@@ -1,6 +1,19 @@
 /* adaption of https://github.com/ryangrose/easy-pandoc-templates template*/
 @import url('https://fonts.googleapis.com/css?family=Spectral');
 
+:root {
+  --black: #1a1a1a;
+  --white: #ffffff;
+  --grey: #444444;
+  /* solarized colorscheme */
+  --base0: #839496;
+  --base1: #93a1a1;
+  --base2: #eee8d5;
+  --base3: #fdf6e3;
+  --background-color: var(--base3);
+  --color: var(--black);
+}
+
 html {
   font-size: 100%;
   overflow-y: scroll;
@@ -13,7 +26,7 @@ body {
   font-family: 'Spectral';
   font-size: 18px !important;
   line-height: 1.8;
-  background: #fdf6e3;
+  background: var(--background-color);
   padding-left: 3%;
   padding-right: 3%;
 }
@@ -81,6 +94,7 @@ h4, h5, h6 {
 h1 {
   font-size: 2.5em;
   text-align: center;
+  border-bottom: 1px solid #000000;
 }
 
 h2 {
@@ -229,23 +243,23 @@ figcaption {
 /* TODO: change colors here I guess */
 table {
   margin-bottom: 2em;
-  border-bottom: 1px solid #ddd;
-  border-right: 1px solid #ddd;
+  border-bottom: 1px solid var(--black);
+  border-right: 1px solid var(--black);
   border-spacing: 0;
   border-collapse: collapse;
 }
 
 table th {
   padding: .2em 1em;
-  background-color: #eee;
-  border-top: 1px solid #ddd;
-  border-left: 1px solid #ddd;
+  background-color: var(--base2);
+  border-top: 1px solid var(--black);
+  border-left: 1px solid var(--black);
 }
 
 table td {
   padding: .2em 1em;
-  border-top: 1px solid #ddd;
-  border-left: 1px solid #ddd;
+  border-top: 1px solid var(--black);
+  border-left: 1px solid var(--black);
   vertical-align: top;
 }
 
