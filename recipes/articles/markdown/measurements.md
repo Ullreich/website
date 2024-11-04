@@ -1,5 +1,8 @@
 # Conversion Tables and Charts
 
+## Cake flour
+* 1 cup regular flour + 2 tbsp corn starch
+
 ## Pressure Cooker Times
 
 [source](https://pipingpotcurry.com/wp-content/uploads/2023/04/IP-lentils-beans-cooking-time-chart-1200-%C3%97-900-px.jpg)
