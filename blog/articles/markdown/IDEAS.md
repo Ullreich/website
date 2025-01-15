@@ -1,0 +1,5 @@
+* million/milliarde (ge) vs million/billion (en): change million to be 1000 so it works out with mili: then you could have miloliter and mililiter. No need for peta, exa , tera
+
+
+wikipedia: https://en.wikipedia.org/wiki/Unit_prefix
+The ascending prefixes peta (10005) and exa (10006) are based on the Greek-derived numeric prefixes "penta" (5) and "hexa" (6). The largest prefixes zetta (10007), and yotta (10008) and, similarly, the descending prefixes zepto (1000−7) and yocto (1000−8) are derived from Latin[25] "septem" (7) and " octo" (8) plus the initial letters "z" and "y". The initial letters "z" and "y" appear in the largest SI prefixes. They were changed because of previously proposed ascending hepto (Greek "hepta" (7)) was already in use as a numerical prefix (implying seven) and the letter "h" as both SI-accepted non-SI unit (hour) and prefix (hecto 102), the same applied to "s" from previously proposed descending septo (i.e. SI unit "s", seconds), while "o" for octo was problematic since a symbol "o" could be confused with zero.[nb 1]
