@@ -1,6 +1,6 @@
 # Carrot Cake with cream cheese frosting
 
-Source: Mommy
+Source: Silver Palate
 
 ## Ingredients:
 (for two 22cm cake pans, for one 22cm cake pan use half measurements)
