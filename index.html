@@ -12,27 +12,8 @@
 <link href="./css_files/global.css" rel="stylesheet" type="text/css" />
 <!-- <link href="default.css" rel="stylesheet" type="text/css" /> -->
 
-<script type="text/javascript" charset="utf-8">
-function get_user_name() {
-    // This script finds the user name from the url and then replaces "IhrBenutzername" with the user name.
-    if (document.getElementsByTagName("pre")[0] && (document.getElementsByTagName("pre")[0]["className"].indexOf("username") == 0) )  {
-        path = window.location.pathname;
-        if (path.indexOf("/student/") == 0) {
-            user_name = path.substring(9);
-        } else {
-            user_name = path.substring(2);
-        }
-        user_name = user_name.substring(0,user_name.indexOf("/"));
-        user_name = user_name + "/";
-        
-        pre_user = document.getElementsByTagName("pre")[0].firstChild.nodeValue;
-        pre_user = pre_user.replace(/IhrBenutzername\//g, user_name);
-        document.getElementsByTagName("pre")[0].firstChild.nodeValue = pre_user;
-    }
-}
-</script>
 </head>
-<body onload="get_user_name()">
+<body>
 <div id="header">
     <h1>Noel's Homepage</h1>
     <h2>&nbsp;</h2>
@@ -43,7 +24,6 @@ function get_user_name() {
     <li><a href="recipes/index.html" onFocus="if(this.blur)this.blur()">Recipes (WIP)</a></li>
     <li><a href="https://github.com/Ullreich" target="_blank" onFocus="if(this.blur)this.blur()">GitHub</a></li>
     <li><a href="download/" onFocus="if(this.blur)this.blur()">Downloads</a></li>
-    <li><a href="private/" onFocus="if(this.blur)this.blur()">Private</a></li>
   </ul>
 </div>
 <div id="footer">
